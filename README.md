@@ -2,6 +2,8 @@
 
 A native, lightweight macOS notch companion built from scratch in Swift, AppKit, and SwiftUI.
 
+GitHub Repository: [github.com/vivekaar000/OpenNotch](https://github.com/vivekaar000/OpenNotch)
+
 ## Features
 
 - **Dynamic Notch Geometry**: Measures the physical notch on modern MacBooks (`NSScreen.auxiliaryTopLeftArea` / `auxiliaryTopRightArea`) or renders an elegant Dynamic Island pill on external displays.
