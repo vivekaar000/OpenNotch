@@ -1,0 +1,25 @@
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+.swiftpm/
+
+# App Bundles & Binaries
+OpenNotch.app/
+*.app
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode / User Data
+xcuserdata/
+*.xcworkspace
+*.moved-aside
+DerivedData/
+*.hmap
